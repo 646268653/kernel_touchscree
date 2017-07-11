@@ -1,1 +1,0 @@
-cmd_drivers/input/touchscreen/w55fa93_gslX680.ko := arm-linux-ld -EL -r  -T /work/N32905/linux-2.6.35.4/scripts/module-common.lds --build-id -o drivers/input/touchscreen/w55fa93_gslX680.ko drivers/input/touchscreen/w55fa93_gslX680.o drivers/input/touchscreen/w55fa93_gslX680.mod.o
