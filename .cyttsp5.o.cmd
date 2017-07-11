@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/cyttsp5.o := arm-linux-ld -EL    -r -o drivers/input/touchscreen/cyttsp5.o drivers/input/touchscreen/cyttsp5_core.o drivers/input/touchscreen/cyttsp5_mt_common.o drivers/input/touchscreen/cyttsp5_mta.o 
